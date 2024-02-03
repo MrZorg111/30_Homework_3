@@ -1,0 +1,3 @@
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_30_HTTP_zaprosi_po_seti/30_Homework_3/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_30_HTTP_zaprosi_po_seti/30_Homework_3/build/_deps/zlib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_30_HTTP_zaprosi_po_seti/30_Homework_3/build/_deps/zlib-subbuild/CMakeFiles/rebuild_cache.dir
